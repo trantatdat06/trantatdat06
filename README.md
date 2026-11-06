@@ -2,7 +2,6 @@
 <p align="center"><b>Technical Business Analyst</b> · turning messy requirements into clear specs, flows and working products</p>
 
 <p align="center">
-  <a href="https://trantatdat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-trantatdat.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:trantatdat06@gmail.com"><img src="https://img.shields.io/badge/Email-trantatdat06@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://youtube.com/@dattuzzx"><img src="https://img.shields.io/badge/YouTube-DatHuhu-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
@@ -46,7 +45,6 @@
 | **Beta Cinemas**: ticket-sales process improvement | As-Is / To-Be modelling, dashboards | BPMN · Bizagi · Power BI |
 | **Retail store management system** | 13-table database, N-tier app | .NET 8 · SQL Server |
 
-👉 Full case studies on my **[portfolio](https://trantatdat.vercel.app/BA)**.
 
 ---
 
